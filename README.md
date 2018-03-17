@@ -1,2 +1,5 @@
-# React-Native-Auth0
-React Native App with Auth0 authentication Provider
+# Auth0 React Native Samples - Login
+
+For more information:
+
+- [Login QuickStart](https://auth0.com/docs/quickstart/native/react-native/00-login)
